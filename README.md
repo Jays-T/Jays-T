@@ -13,7 +13,7 @@ If you want to get in touch you can:
 
 - 🔭 I’m currently working on [Everyday Gourmet](https://github.com/Jays-T/everyday-gourmet-development) which is a freelance project 
 
-- 🌱 At the moment I am learning : SASS(Scss), Bootstrap 5
+- 🌱 At the moment I am learning : SASS(Scss), Bootstrap 5, React
 
 - I'm also in the process of being continuously bamboozled by: JavaScript (it's all part of the fun though! 😄 )
 
