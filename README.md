@@ -17,7 +17,7 @@ If you want to get in touch you can:
 
 - I'm also in the process of being continuously bamboozled by: JavaScript (it's all part of the fun though! 😄 )
 
-- ⚡ I'm forever improving my knowledge in:
+- ⚡ I'm consistently improving my knowledge in:
 
 |Languages|Frameworks|Markup/Stylesheet|Libraries|
 | :---| :--- | :--- | :--- |
@@ -26,7 +26,7 @@ If you want to get in touch you can:
 |||||
 * 💬 Use ctrl+click to open any link in a new tab
 ---
-### 💬 Welcome to my GitHub profile where I am forever learning and never settling while selling myself as a dev. 
+### 💬 Welcome to my GitHub profile. 
 <!--
 **Jays-T/Jays-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
