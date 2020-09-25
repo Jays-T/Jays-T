@@ -3,7 +3,7 @@
 While the logic of back-end fascinates me and truth be told, I enjoy nearly every facet of full stack development, I do find myself leaning towards more front-end work. That said I am open to anything and am for the moment working full-stack, self-employed at:
 
 # ![image](images/angry_cat_70x63.png) Angry Cat Design and Development
-Ambitious and driven, having traveled the world while pursuing my passion for Music and Design in Tech. 
+I've been lucky enough to have traveled a large portion of the world while pursuing my passion for Music and Design in Tech. 
 I am a recent Full Stack Software Development graduate of Code Institute.
 
 If you want to get in touch you can:
