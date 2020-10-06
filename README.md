@@ -19,10 +19,10 @@ If you want to get in touch you can:
 
 - ⚡ I'm consistently improving my knowledge in:
 
-|Languages|Frameworks|Markup/Stylesheet|Libraries|
-| :---| :--- | :--- | :--- |
-| <li> [JavaScript](https://javascript.info/) </li>| <li> [Flask](https://flask.palletsprojects.com/en/1.1.x/) </li>|<li> [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) </li>|<li> [jQuery](https://jquery.com/) </li>|
-| <li> [Python](https://www.python.org/) </li>| <li> [Django](https://www.djangoproject.com/) </li> | <li> [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) </li>| <li> [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) </li>|
+|Languages|Frameworks|Markup/Stylesheet|Libraries|Data|
+| :---| :--- | :--- | :--- | :--- |
+| <li> [JavaScript](https://javascript.info/) </li>| <li> [Flask](https://flask.palletsprojects.com/en/1.1.x/) </li>|<li> [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) </li>|<li> [jQuery](https://jquery.com/) </li>|<li>Relational DB's</li>|
+| <li> [Python](https://www.python.org/) </li>| <li> [Django](https://www.djangoproject.com/) </li> | <li> [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) </li>| <li> [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) </li>|<li> [MongoDB](https://mongodb.com) </li>
 |||||
 * 💬 Use ctrl+click to open any link in a new tab
 ---
