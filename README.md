@@ -22,7 +22,7 @@ If you want to get in touch you can:
 |Languages|Frameworks|Markup/Stylesheet|Libraries|Database Types|
 | :---| :--- | :--- | :--- | :--- |
 | <li> [JavaScript](https://javascript.info/) </li>| <li> [Flask](https://flask.palletsprojects.com/en/1.1.x/) </li>|<li> [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) </li>|<li> [jQuery](https://jquery.com/) </li>|<li>SQL [SQLite3](https://www.sqlite.org/)</li>|
-| <li> [Python](https://www.python.org/) </li>| <li> [Django](https://www.djangoproject.com/) </li> | <li> [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) </li>| <li> [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) </li>|<li> SQL [PostgreSQL](hhttps://www.postgresql.org/) </li>
+| <li> [Python](https://www.python.org/) </li>| <li> [Django](https://www.djangoproject.com/) </li> | <li> [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) </li>| <li> [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) </li>|<li> SQL [PostgreSQL](https://www.postgresql.org/) </li>
 |||||<li>noSQL [MongoDB](https://mongodb.com)</li>|
 * 💬 Use ctrl+click to open any link in a new tab
 ---
