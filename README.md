@@ -19,11 +19,11 @@ If you want to get in touch you can:
 
 - ⚡ I'm consistently improving my knowledge in:
 
-|Languages|Frameworks|Markup/Stylesheet|Libraries|Database|
+|Languages|Frameworks|Markup/Stylesheet|Libraries|Database types|
 | :---| :--- | :--- | :--- | :--- |
-| <li> [JavaScript](https://javascript.info/) </li>| <li> [Flask](https://flask.palletsprojects.com/en/1.1.x/) </li>|<li> [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) </li>|<li> [jQuery](https://jquery.com/) </li>|<li>[SQLite3](https://www.sqlite.org/)</li>|
-| <li> [Python](https://www.python.org/) </li>| <li> [Django](https://www.djangoproject.com/) </li> | <li> [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) </li>| <li> [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) </li>|<li>[PostgreSQL](https://www.postgresql.org/) </li>
-|||||<li>[MongoDB](https://mongodb.com)</li>|
+| <li> [JavaScript](https://javascript.info/) </li>| <li> [Flask](https://flask.palletsprojects.com/en/1.1.x/) </li>|<li> [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) </li>|<li> [jQuery](https://jquery.com/) </li>|<li>Relational [SQLite3](https://www.sqlite.org/)</li>|
+| <li> [Python](https://www.python.org/) </li>| <li> [Django](https://www.djangoproject.com/) </li> | <li> [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) </li>| <li> [Bootstrap 4](https://getbootstrap.com/docs/4.0/getting-started/introduction/) </li>|<li>Relational [PostgreSQL](https://www.postgresql.org/) </li>
+|||||<li>noSQL [MongoDB](https://mongodb.com)</li>|
 * 💬 Use ctrl+click to open any link in a new tab
 ---
 ### 💬 Welcome to my GitHub profile. 
