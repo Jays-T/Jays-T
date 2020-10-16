@@ -10,9 +10,8 @@ If you want to get in touch you can:
 
 
 - 👯 Find me on [LinkedIn](https://www.linkedin.com/in/john-jacob-hald-traas-25603325/) - 
-
-- 🔭 I’m currently working on [A simple blog in Ruby](https://github.com/Jays-T/blog-using-ruby-on-rails) which is my first dive into [Ruby on Rails](https://rubyonrails.org/) -  
-
+- :musical_note: Find my music projects/bands here [Contrast Parity](https://soundcloud.com/contrastparity) + [Darwiche](https://www.facebook.com/DarwicheRock)
+- 🔭 I’m currently working on [A simple blog in Ruby](https://github.com/Jays-T/blog-using-ruby-on-rails) which is my first dive into [Ruby on Rails](https://rubyonrails.org/) 
 - 🌱 At the moment I am learning : [Ruby On Rails](https://rubyonrails.org/), [React](https://reactjs.org/) and diving deeper into [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [SASS](https://sass-lang.com/)
 
 - I'm also in the process of being continuously bamboozled by: JavaScript (it's all part of the fun though! 😄 )
