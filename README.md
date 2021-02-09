@@ -2,7 +2,7 @@
 💬 I have a great affinity for all things UI/UX and design related.
 The logic of back-end fascinates me. I love exploring new technologies and learning. I am open to anything and am for the moment working full-stack, self-employed at:
 
-# ![image](images/angry_cat_70x63.png) Angry Cat Design and Development
+# ![image](images/angry_cat_70x63.png) Angry Cat Design
 I've been lucky enough to have traveled a large portion of the world while pursuing my passion for Music and Design in Tech. 
 I am a recent Full Stack Software Development graduate of Code Institute.
 
