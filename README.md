@@ -9,7 +9,7 @@ If you want to get in touch you can:
 
 
 - 👯 Find me on [LinkedIn](https://www.linkedin.com/in/john-jacob-hald-traas-25603325/) - 
-- 🔭 I’m currently mentoring two teams for the Code Institute Hackathon[Code Institute Hackathon](https://hackathon.codeinstitute.net/) working on [My Resume](https://github.com/Jays-T/resume) which will be my personal site and I took part in Hacktober Fest contributing four successful PR's to [Code Institute Hackathon App](https://github.com/Code-Institute-Community/ci-hackathon-app) for experience, and the fun of collaborating with fellow coders.
+- 🔭 I’m currently mentoring two teams for the Code Institute Hackathon [Code Institute St Patricks Day Hackathon](https://hackathon.codeinstitute.net/) working on [My Resume](https://github.com/Jays-T/resume) which will be my personal site and I took part in Hacktober Fest contributing four successful PR's to [Code Institute Hackathon App](https://github.com/Code-Institute-Community/ci-hackathon-app) for experience, and the fun of collaborating with fellow coders.
 - 🌱 At the moment I am learning : [React](https://reactjs.org/) and diving deeper into [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [SASS](https://sass-lang.com/)
 
 - :dizzy_face: I'm often found being continuously bamboozled by: JavaScript (it's all part of the fun though! 😄 )
