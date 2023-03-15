@@ -11,7 +11,7 @@ If you want to get in touch you can:
 
 
 - 👯 Find me on [LinkedIn](https://www.linkedin.com/in/john-jacob-hald-traas-25603325/) - 
-- 🔭 I've worked as a mentor and facilitator for teams participating in the Code Institute Hackathons [Code Institute Hackathons](https://hackathon.codeinstitute.net/). I am working on [My Portfolio](https://jays-t.github.io/resume) which will be my personal site and I took part in Hacktober Fest contributing four successful PR's to [Code Institute Hackathon App](https://github.com/Code-Institute-Community/ci-hackathon-app) for experience, and the fun of collaborating with fellow coders.
+- 🔭 I've also worked as a Developer and Tutor at [Code Institute](https://codeinstitute.net/se/) as well as a mentor and facilitator for teams participating in the Code Institute Hackathons [Code Institute Hackathons](https://hackathon.codeinstitute.net/). I am working on [My Portfolio](https://jays-t.github.io/resume) which will be my personal site and I took part in Hacktober Fest contributing four successful PR's to [Code Institute Hackathon App](https://github.com/Code-Institute-Community/ci-hackathon-app) for experience, and the fun of collaborating with fellow coders.
 - 🌱 At the moment I am learning : [.Net C#](https://dotnet.microsoft.com/en-us/), building API's with [Flask](https://flask.palletsprojects.com/en/2.2.x/) and [Python](https://www.python.org/), building frontend clients with [TypeScript](https://www.typescriptlang.org/) and [StencilJS](https://stenciljs.com/).
 
 - :dizzy_face: I'm often found being continuously both bamboozled and fascinated by code (it's all part of the fun though! 😄 )
