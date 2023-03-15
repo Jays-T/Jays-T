@@ -1,5 +1,5 @@
 ## 💬 Hi there, my name is John Traas but my friends call me Jays  
-I'm a Software Engineer at Lime Technologies.  
+I'm a Software Engineer at [Lime Technologies](https://www.lime-technologies.com/en/).  
 
 💬 I have a great affinity for all things UX/UI and design related.
 The logic of back-end fascinates me. I love exploring new technologies and learning. I am open to all possibilities.  
