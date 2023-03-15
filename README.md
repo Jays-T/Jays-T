@@ -1,4 +1,4 @@
-## 💬 Hi there, my name is John Traas but most people call me Jays  
+## 💬 Hi there, my name is John Traas but my friends call me Jays  
 I'm a Software Engineer at Lime Technologies.  
 
 💬 I have a great affinity for all things UX/UI and design related.
