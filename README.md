@@ -1,6 +1,8 @@
-## 💬 Hi there, my name is John Traas but most people call me Jays
-💬 I have a great affinity for all things UI/UX and design related.
-The logic of back-end fascinates me. I love exploring new technologies and learning. I am open to anything and am currently job searching.
+## 💬 Hi there, my name is John Traas but most people call me Jays  
+I'm a Software Engineer at Lime Technologies.  
+
+💬 I have a great affinity for all things UX/UI and design related.
+The logic of back-end fascinates me. I love exploring new technologies and learning. I am open to all possibilities.  
 
 
 I've been lucky enough to have traveled a large portion of the world while pursuing my passion for Music and Design in Tech. 
@@ -9,11 +11,11 @@ If you want to get in touch you can:
 
 
 - 👯 Find me on [LinkedIn](https://www.linkedin.com/in/john-jacob-hald-traas-25603325/) - 
-- 🔭 I recently mentored two teams for the Code Institute Hackathon [Code Institute St Patricks Day Hackathon](https://hackathon.codeinstitute.net/). I am working on [My Portfolio](https://jays-t.github.io/resume) which will be my personal site and I took part in Hacktober Fest contributing four successful PR's to [Code Institute Hackathon App](https://github.com/Code-Institute-Community/ci-hackathon-app) for experience, and the fun of collaborating with fellow coders.
-- 🌱 At the moment I am learning : [React](https://reactjs.org/) and diving deeper into [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and [SASS](https://sass-lang.com/)
+- 🔭 I've worked as a mentor and facilitator for teams participating in the Code Institute Hackathons [Code Institute Hackathons](https://hackathon.codeinstitute.net/). I am working on [My Portfolio](https://jays-t.github.io/resume) which will be my personal site and I took part in Hacktober Fest contributing four successful PR's to [Code Institute Hackathon App](https://github.com/Code-Institute-Community/ci-hackathon-app) for experience, and the fun of collaborating with fellow coders.
+- 🌱 At the moment I am learning : [.Net C#](https://dotnet.microsoft.com/en-us/), building API's with [Flask](https://flask.palletsprojects.com/en/2.2.x/) and [Python](https://www.python.org/), building frontend clients with [TypeScript](https://www.typescriptlang.org/) and [StencilJS](https://stenciljs.com/).
 
-- :dizzy_face: I'm often found being continuously bamboozled by: JavaScript (it's all part of the fun though! 😄 )
-- :musical_note: I'm also a musician/songwriter/producer with [Contrast Parity](https://soundcloud.com/contrastparity) and guitarist with [Darwiche](https://www.facebook.com/DarwicheRock)
+- :dizzy_face: I'm often found being continuously both bamboozled and fascinated by code (it's all part of the fun though! 😄 )
+- :musical_note: I'm also a founder/musician/songwriter/producer with [Contrast Parity](https://soundcloud.com/contrastparity) and guitarist with [Darwiche](https://www.facebook.com/DarwicheRock) as well as a founder/musician/songwriter with Freds Suitcase (site not up yet). 
 
 - ⚡ I'm consistently improving my knowledge in:
 
